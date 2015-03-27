@@ -3,14 +3,14 @@ A fun game
 
 ## john
 
-1.
+1. blue
 2.
 3.
 4.
 
 ## Maria
 
-1.
+1.red
 2. turquoise
 3.
 4.
