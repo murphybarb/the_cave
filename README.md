@@ -5,14 +5,14 @@ A fun game
 
 1.
 2.
-3.
+3. orange
 4.
 
 ## Maria
 
 1.
 2.
-3.
+3. green 
 4.
 
 ## Leah
